@@ -1,0 +1,30 @@
+.navbar{
+    background-color: #587CB2;
+    height: 50%;
+    display: flex;
+    justify-content: space-evenly !important;
+}
+.search{
+    width: 433px;
+    height: 39px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    line-height: 39px;
+}
+.link{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+td{
+    padding: 0px 0px 0px 80px;
+}
+
+.box{
+    background-color: #E9CE6F;
+    width: 951px;
+    height: 338px;
+    margin-top: 7%;
